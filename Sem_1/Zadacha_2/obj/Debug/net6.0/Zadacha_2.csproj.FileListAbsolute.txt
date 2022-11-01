@@ -3,3 +3,13 @@ D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.G
 D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfoInputs.cache
 D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfo.cs
 D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.csproj.CoreCompileInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.exe
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.deps.json
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.runtimeconfig.json
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\refint\Zadacha_2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.genruntimeconfig.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_1\Zadacha_2\obj\Debug\net6.0\ref\Zadacha_2.dll
