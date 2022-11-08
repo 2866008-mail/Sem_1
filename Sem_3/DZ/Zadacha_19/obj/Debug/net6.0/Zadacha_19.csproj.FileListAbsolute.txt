@@ -1,0 +1,15 @@
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\bin\Debug\net6.0\Zadacha_19.exe
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\bin\Debug\net6.0\Zadacha_19.deps.json
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\bin\Debug\net6.0\Zadacha_19.runtimeconfig.json
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\bin\Debug\net6.0\Zadacha_19.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\bin\Debug\net6.0\Zadacha_19.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.csproj.AssemblyReference.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.AssemblyInfoInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.AssemblyInfo.cs
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.csproj.CoreCompileInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\refint\Zadacha_19.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\Zadacha_19.genruntimeconfig.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_3\DZ\Zadacha_19\obj\Debug\net6.0\ref\Zadacha_19.dll
