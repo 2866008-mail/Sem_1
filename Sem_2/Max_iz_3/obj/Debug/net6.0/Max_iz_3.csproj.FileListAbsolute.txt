@@ -1,0 +1,15 @@
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\bin\Debug\net6.0\Max_iz_3.exe
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\bin\Debug\net6.0\Max_iz_3.deps.json
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\bin\Debug\net6.0\Max_iz_3.runtimeconfig.json
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\bin\Debug\net6.0\Max_iz_3.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\bin\Debug\net6.0\Max_iz_3.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.csproj.AssemblyReference.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.AssemblyInfoInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.AssemblyInfo.cs
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.csproj.CoreCompileInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\refint\Max_iz_3.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\Max_iz_3.genruntimeconfig.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_2\Max_iz_3\obj\Debug\net6.0\ref\Max_iz_3.dll
