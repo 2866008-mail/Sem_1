@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9M4P3LrsvDz1SXXt3aAxV7Sb8NQYLjGtzldyZ8JxQtGJ+cg6Hz+1Me+CytAuBESGyW4h1FdGeP2szmEmA8H/sg==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramminBaseSeminars\\Semminars\\Sem_4\\z3\\z3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша D:\\ProgramminBaseSeminars\\Semminars\\Sem_4\\z3\\obj\\project.nuget.cache: Found invalid data while decoding."
+    }
+  ]
+}

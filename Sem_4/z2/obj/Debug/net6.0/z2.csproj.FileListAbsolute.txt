@@ -1,0 +1,15 @@
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.csproj.AssemblyReference.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.AssemblyInfoInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.AssemblyInfo.cs
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.csproj.CoreCompileInputs.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\bin\Debug\net6.0\z2.exe
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\bin\Debug\net6.0\z2.deps.json
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\bin\Debug\net6.0\z2.runtimeconfig.json
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\bin\Debug\net6.0\z2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\bin\Debug\net6.0\z2.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\refint\z2.dll
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.pdb
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\z2.genruntimeconfig.cache
+D:\ProgramminBaseSeminars\Semminars\Sem_4\z2\obj\Debug\net6.0\ref\z2.dll
